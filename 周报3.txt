@@ -1,0 +1,4 @@
+仓库地址：https://github.com/kangaofan/xuanxuan
+完善测试用例
+了解并掌握monkey的使用
+利用java+appium+TestNG编写20条自动化测试用例
