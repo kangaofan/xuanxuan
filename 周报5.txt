@@ -1,0 +1,14 @@
+仓库地址：https://github.com/kangaofan/xuanxuan
+了解了uiautomator的使用，uiautomator是用来做UI测试的，一个测试的Java库，
+包含了创建UI测试的各种API和执行自动化测试的引擎。
+下面是uiautomator 工作流程概述：
+1.安装要测试的应用到手机中，分析应用的UI界面元素 并确保被测试应用的各个控件可以被测试工具获取到。
+2.创建知道测试案例来模拟应用中的用户操作步骤。
+3.编译测试案例代码为Jar包并复制该Jar包到安装了待测应用的测试手机中。
+4.运行测试并查看结果
+5.修改任何发现的bug，然后修复并重新测试。
+
+创建uiautomator 测试案例
+uiautomator 测试案例（Test case）需要继承至UiAutomatorTestCase 类。
+而UiAutomatorTestCase 类继承至junit.framework.TestCase类，所以可以用JUnit的
+Assert类来比较测试结果。
