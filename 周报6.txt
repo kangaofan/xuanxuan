@@ -1,0 +1,2 @@
+仓库地址：https://github.com/kangaofan/xuanxuan
+利用Jmeter进行性能测试 编写测试计划、http请求、响应断言、结果树、汇总报告
