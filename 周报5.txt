@@ -1,3 +1,4 @@
+第13周周报
 仓库地址：https://github.com/kangaofan/xuanxuan
 了解了uiautomator的使用，uiautomator是用来做UI测试的，一个测试的Java库，
 包含了创建UI测试的各种API和执行自动化测试的引擎。

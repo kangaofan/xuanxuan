@@ -1,0 +1,3 @@
+第15周周报
+仓库地址：https://github.com/kangaofan/xuanxuan
+完善测试计划、jmeter生成测试报告、对测试结果进行分析
